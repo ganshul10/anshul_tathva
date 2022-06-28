@@ -25,10 +25,11 @@ a:hover {
 }
 
 #logo_1 {
+    postion:absolute;
     width: 4rem;
 }
 
-.part1 {
+.nav{
     position: absolute;
     display: flex;
     top: 4.1rem;
@@ -191,10 +192,11 @@ a:hover {
     position: absolute;
     top: 120.6rem;
     left: 10rem;
-    width: 57.3rem;
-    height: 23.4rem;
-    font-size: 2.6rem;
+    height: 23.2rem;
+    width: 56.3rem;
     line-height: 3.9rem;
+    font-size: 2.6rem;
+    
 }
 
 #work {
