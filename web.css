@@ -1,0 +1,714 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-size: 72%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    max-width: 150.5rem;
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    padding: 1px 12px;
+    border-radius: 2rem;
+    line-height: 2.5rem;
+}
+
+a:hover {
+    color: white;
+    background-color: black;
+    opacity: .7;
+}
+
+#logo_1 {
+    width: 4rem;
+}
+
+.part1 {
+    position: absolute;
+    display: flex;
+    top: 4.1rem;
+    left: 10rem;
+}
+
+#name_1 {
+    width: 11.6rem;
+    height: 3rem;
+    margin-top: .5rem;
+    margin-left: .978rem;
+    font-size: 2.2rem;
+    line-height: 3rem;
+    text-align: center;
+}
+
+.section_1 {
+    position: absolute;
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+    justify-content: center;
+    color: black;
+}
+
+#about {
+    color: white;
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+}
+
+#about_2 {
+    position: absolute;
+    top: 146.4rem;
+    background-color: black;
+    left: 10rem;
+    padding: 1.2rem 2rem;
+    color: white;
+}
+
+#contact_1 {
+    position: absolute;
+    top: 3.6rem;
+    left: 99.3rem;
+    padding: 1.2rem 2rem;
+    background-color: black;
+    color: white;
+}
+
+#contact_div1 {
+    color: white;
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+}
+
+#work_1 {
+    left: 82.4rem;
+    width: 5.3rem;
+    top: 4.9rem;
+    height: 2.4rem;
+}
+
+#work_2 {
+    position: absolute;
+    left: 25.45rem;
+    top: 42.4rem;
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+}
+
+#about_1 {
+    top: 4.9rem;
+    left: 90.9rem;
+    width: 5.3rem;
+    height: 2.4rem;
+}
+
+#contact_2 {
+    position: absolute;
+    top: 41.2rem;
+    background-color: #2660FF;
+    left: 10rem;
+    padding: 1.2rem 2rem;
+    color: white;
+}
+
+#contact_div2 {
+    font-size: 1.8rem;
+    line-height: 2.43rem;
+}
+
+#line_1 {
+    position: absolute;
+    top: 16.6rem;
+    left: 10rem;
+    font-size: 7.2rem;
+    line-height: 7.6rem;
+    width: 43.9rem;
+    height: 15.2rem;
+}
+
+#line_2 {
+    position: absolute;
+    top: 35rem;
+    left: 10rem;
+    font-size: 2.2rem;
+    width: 27.1rem;
+    height: 3rem;
+    color: #81889E;
+    line-height: 3rem;
+}
+
+#photo_1 {
+    position: absolute;
+    top: 54.2rem;
+    left: 10rem;
+    font-size: 2.2rem;
+}
+
+#first {
+    width: 100.3rem;
+}
+
+.bold {
+    position: absolute;
+    left: 81.1rem;
+    font-size: 8rem;
+    line-height: 7.3rem;
+    height: 7.3rem;
+}
+
+.normal {
+    position: absolute;
+    height: 1.6rem;
+    font-size: 1.8rem;
+    left: 81.1rem;
+    line-height: 1.6rem;
+}
+
+#num1 {
+    top: 123.5rem;
+    width: 13.3rem;
+}
+
+#num2 {
+    top: 138rem;
+    width: 10.1rem;
+}
+
+#sen1 {
+    top: 132.4rem;
+    width: 19.2rem;
+}
+
+#sen2 {
+    top: 146.9rem;
+    width: 6.8rem;
+}
+
+#lorem1 {
+    position: absolute;
+    top: 120.6rem;
+    left: 10rem;
+    width: 57.3rem;
+    height: 23.4rem;
+    font-size: 2.6rem;
+    line-height: 3.9rem;
+}
+
+#work {
+    position: absolute;
+    top: 166.4rem;
+    left: 10.0rem;
+    font-size: 7.2rem;
+    line-height: 7.6rem;
+}
+
+#ellipse {
+    position: absolute;
+    top: 167.9rem;
+    left: 35.0rem;
+}
+
+#vector {
+    position: absolute;
+    top: 169.455rem;
+    left: 36.159rem;
+}
+
+#third {
+    position: absolute;
+    width: 49.7rem;
+    top: 180.0rem;
+    left: 54.6rem;
+}
+
+#sec {
+    position: absolute;
+    top: 180.0rem;
+    left: 16.0rem;
+    width: 35rem;
+}
+
+#forth {
+    position: absolute;
+    top: 237.5rem;
+    width: 49.7rem;
+    left: 16.0rem;
+}
+
+#fifth {
+    position: absolute;
+    top: 232.4rem;
+    left: 69.3rem;
+    width: 35rem;
+    padding-top: 5.1rem;
+}
+
+#we_mov {
+    position: absolute;
+    font-size: 2.4rem;
+    top: 229.4rem;
+    left: 16.0rem;
+    width: 8.9rem;
+    height: 2.5rem;
+}
+
+#wellness {
+    position: absolute;
+    font-size: 2.4rem;
+    line-height: 2.5rem;
+    top: 229.4rem;
+    left: 54.6rem;
+}
+
+#medora {
+    position: absolute;
+    font-size: 2.4rem;
+    line-height: 2.5rem;
+    top: 286.9rem;
+    left: 16.0rem;
+}
+
+#carnival {
+    position: absolute;
+    font-size: 2.4rem;
+    line-height: 2.5rem;
+    top: 286.9rem;
+    left: 69.3rem;
+}
+
+#part8 {
+    position: absolute;
+    top: 304.4rem;
+    width: 120.3rem;
+    height: 90.0rem;
+    background-color: black;
+    color: white;
+}
+
+#review {
+    position: absolute;
+    top: 8.0rem;
+    left: 10.0rem;
+    font-size: 7.2rem;
+    width: 43.9rem;
+    height: 7.6rem;
+    line-height: 7.6rem;
+}
+
+#dp_1 {
+    position: absolute;
+    top: 21.2rem;
+    left: 23.65rem;
+    width: 5.7rem;
+}
+
+#dp_2 {
+    position: absolute;
+    top: 52.8rem;
+    left: 23.65rem;
+    width: 5.7rem;
+}
+
+#name1 {
+    position: absolute;
+    top: 21.4rem;
+    left: 30.95rem;
+    font-size: 2.0rem;
+}
+
+#rating1 {
+    position: absolute;
+    filter: invert(100%);
+    left: 30.95rem;
+    top: 24.8rem;
+    width: 1.9rem;
+    display: flex;
+}
+
+#rating2 {
+    position: absolute;
+    filter: invert(100%);
+    left: 30.95rem;
+    top: 56.4rem;
+    width: 1.9rem;
+    display: flex;
+}
+
+#name2 {
+    position: absolute;
+    top: 53.0rem;
+    left: 30.95rem;
+    font-size: 2.0rem;
+}
+
+#comment1 {
+    position: absolute;
+    top: 29.2rem;
+    left: 23.65rem;
+    font-size: 1.8rem;
+    font-weight: 400;
+    width: 73.0rem;
+    height: 21.0rem;
+    line-height: 3.0rem;
+    color: #81889E;
+}
+
+#comment2 {
+    position: absolute;
+    top: 60.8rem;
+    left: 23.65rem;
+    font-size: 1.8rem;
+    font-weight: 400;
+    width: 73.0rem;
+    height: 21.0rem;
+    line-height: 3.0rem;
+    color: #81889E;
+}
+
+#faqs {
+    position: absolute;
+    top: 409.2rem;
+    left: 10.0rem;
+    width: 43.9rem;
+    height: 7.6rem;
+    font-size: 7.2rem;
+    font-weight: 400;
+    line-height: 7.6rem;
+}
+
+.ques {
+    position: absolute;
+    left: 10.0rem;
+    width: 67.3rem;
+    height: 3.9rem;
+    font-size: 2.6rem;
+    font-weight: 400;
+    line-height: 3.9rem;
+}
+
+.ans {
+    position: absolute;
+    left: 10.0rem;
+    height: 15.0rem;
+    width: 64.8rem;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 3.0rem;
+}
+
+#ques1 {
+    top: 422.4rem;
+}
+
+#ques2 {
+    top: 449.7rem;
+}
+
+#ans1 {
+    top: 429.1rem;
+    color: #81889E;
+}
+
+#ans2 {
+    top: 456.4rem;
+    color: #81889E;
+}
+
+#part10 {
+    position: absolute;
+    top: 486.4rem;
+    height: 35.7rem;
+    width: 120.3rem;
+    background-color: #F1F4FA;
+}
+
+#logo2 {
+    position: absolute;
+    top: 8.0rem;
+    width: 4rem;
+    left: 10.0rem;
+}
+
+#name_2 {
+    position: absolute;
+    top: 8.5rem;
+    left: 14.978rem;
+    font-weight: 500;
+    font-size: 2.2rem;
+    line-height: 3.0rem;
+}
+
+#about_3 {
+    text-decoration: none;
+    color: #81889E;
+    position: absolute;
+    font-size: 1.6rem;
+    top: 8.0rem;
+    left: 76.1rem;
+}
+
+#works_3 {
+    text-decoration: none;
+    color: #81889E;
+    position: absolute;
+    top: 12.2rem;
+    font-size: 1.6rem;
+    left: 76.1rem;
+}
+
+#contact_3 {
+    text-decoration: none;
+    color: #81889E;
+    position: absolute;
+    top: 16.4rem;
+    font-size: 1.6rem;
+    left: 76.1rem;
+}
+
+.logo {
+    position: absolute;
+    left: 89.667rem;
+}
+
+.social {
+    position: absolute;
+    left: 92.7rem;
+    color: #81889E;
+    font-size: 1.6rem;
+}
+
+#insta {
+    top: 8.267rem;
+}
+
+#face {
+    top: 12.47rem;
+}
+
+#twitt {
+    top: 16.833rem;
+}
+
+#instagram {
+    top: 8.0rem;
+}
+
+#facebook {
+    top: 12.2rem;
+}
+
+#twitter {
+    top: 16.4rem;
+}
+
+#privacy {
+    top: 30.2rem;
+    left: 86.3rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+
+#terms {
+    top: 30.2rem;
+    left: 97.5rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+
+.copyright {
+    position: absolute;
+    top: 30.25rem;
+    left: 10.0rem;
+    color: #81889E;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+
+/* @media(max-width:998px) {
+    html {
+        font-size: 40%;
+    }
+}
+
+@media(max-width:798px) {
+    html {
+        font-size: 30%;
+    }
+    /* .section_1 {
+        font-size: 2rem;
+} */
+
+
+/* 
+#work_1 {
+    left: 86rem;
+    top: 4.9rem;
+} */
+
+
+/* #about_1 {
+        top: 10rem;
+        left: 86rem;
+    } */
+
+
+/* 
+#contact_1 {
+    left: 84rem;
+    font-size: 2rem;
+    top: 15rem;
+}
+
+#terms {
+    top: 27rem;
+    left: 84.8rem;
+    font-size: 1.6rem;
+}
+
+#privacy {
+    font-size: 1.6rem;
+}
+
+.part1 {
+    left: 9rem;
+}
+
+#line_1 {
+    left: 9rem;
+}
+
+#line_2 {
+    left: 9rem;
+}
+
+#photo_1 {
+    left: 9rem;
+}
+
+.bold {
+    left: 79.1rem;
+}
+
+.normal {
+    left: 79.1rem;
+}
+
+#lorem1 {
+    left: 9rem;
+}
+
+#work {
+    left: 9rem;
+}
+
+#ellipse {
+    left: 34rem;
+}
+
+#vector {
+    left: 35.159rem;
+}
+
+#third {
+    left: 53rem;
+}
+
+#forth {
+    left: 14.4rem;
+}
+
+#fifth {
+    left: 67.7rem;
+}
+
+#sec {
+    left: 14.4rem;
+}
+
+#we.mov {
+    left: 14.4rem;
+}
+
+#wellness {
+    left: 53rem;
+}
+
+#medora {
+    left: 14.4rem;
+}
+
+#carnival {
+    left: 67.7rem;
+}
+
+#review {
+    left: 9rem;
+}
+
+#dp_1 {
+    left: 22.65rem;
+}
+
+#dp_2 {
+    left: 22.65rem;
+}
+
+#name1 {
+    left: 29.95rem;
+}
+
+#name2 {
+    left: 29.95rem;
+}
+
+#rating1 {
+    left: 29.95rem;
+}
+
+#rating2 {
+    left: 29.95rem;
+}
+
+#comment1 {
+    left: 22.65rem;
+}
+
+#comment1 {
+    left: 22.65rem;
+}
+
+#faqs {
+    left: 9rem;
+}
+
+.ques {
+    left: 9rem;
+}
+
+.ans {
+    left: 9rem;
+}
+
+#logo2 {
+    left: 9rem;
+}
+
+#name_2 {
+    left: 13.978rem;
+}
+
+.logo {
+    left: 88.667rem;
+}
+
+.social {
+    left: 91rem;
+}
+
+
+}
+*/
